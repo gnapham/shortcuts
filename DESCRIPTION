@@ -9,8 +9,3 @@ License: None
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
-
-To install shortcuts from github in R console:
-
-library(devtools)
-install_github("gnapham/shortcuts")
